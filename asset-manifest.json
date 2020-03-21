@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/marvel-react/static/css/main.e8d245e3.chunk.css",
+    "main.js": "/marvel-react/static/js/main.efa4dd88.chunk.js",
+    "main.js.map": "/marvel-react/static/js/main.efa4dd88.chunk.js.map",
+    "runtime-main.js": "/marvel-react/static/js/runtime-main.ff0a5761.js",
+    "runtime-main.js.map": "/marvel-react/static/js/runtime-main.ff0a5761.js.map",
+    "static/js/2.d2abd1b5.chunk.js": "/marvel-react/static/js/2.d2abd1b5.chunk.js",
+    "static/js/2.d2abd1b5.chunk.js.map": "/marvel-react/static/js/2.d2abd1b5.chunk.js.map",
+    "index.html": "/marvel-react/index.html",
+    "precache-manifest.034214241ba88b43595cea89c86332ec.js": "/marvel-react/precache-manifest.034214241ba88b43595cea89c86332ec.js",
+    "service-worker.js": "/marvel-react/service-worker.js",
+    "static/css/main.e8d245e3.chunk.css.map": "/marvel-react/static/css/main.e8d245e3.chunk.css.map",
+    "static/js/2.d2abd1b5.chunk.js.LICENSE.txt": "/marvel-react/static/js/2.d2abd1b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff0a5761.js",
+    "static/js/2.d2abd1b5.chunk.js",
+    "static/css/main.e8d245e3.chunk.css",
+    "static/js/main.efa4dd88.chunk.js"
+  ]
+}
